@@ -1,0 +1,44 @@
+How many GPUs does the Lambda Blade have? ||| The Lambda Blade has eight GPUs.
+How many GPUs does the Lambda Quad have? ||| The Lambda Quad has four GPUs.
+How many GPUs does the TensorBook have? ||| The TensorBook has one GPU.
+What's the wattage of the blade? ||| The Lambda Blade has a peak power of 2400W with 8 GPUs.
+What's the wattage of the quad? ||| The Lambda Blade has a peak power of 1200W with 4 GPUs.
+How fast do you usually ship? ||| We usually ship within 4 business days of purchase.
+What are your lead times? ||| Our lead times are currently around 4 business days.
+What's the best GPU for the money? ||| The most cost effective GPU is probably the 1080 Ti.
+Do you ship to my country? ||| Yes! We ship globally! We are located in California and ship directly to you so costs and time may vary.  Be aware that there may be customs fees and VAT taxes. Each country is unique and has its own policies. Want to check your own country's customs policies? Check http://customsdutyfree.com, they are a free service that calculates customs for you free.
+Do you have academic/student/non-profit/government/startup discounts? ||| We are happy to offer discounts to these customers. Please contact us for details and to see if you qualify. Email enterprise@lambdal.com.
+What methods of payment do you accept? ||| "We accept wire transfers, AHC bank transfers, and credit cards. Note that there is a 3% charge for credit card transactions. "
+What if I have problems? What service options are there? ||| "All of our products come with a one year warranty. See our Terms of Sale https://lambdalabs.com/legal for details.  
+I don't see the configuration I need. Can I customize it? ||| Yes! You can customize your own machine on our website. Still not sure what fits your needs? Our deep learning engineers are happy to help you with your decision. 
+Can I use your machines for gaming? ||| Though our machines can support gaming, you may not need the extra power. Our machines are engineered for deep learning, and only come pre-loaded with the Lambda Stack.
+How much power do your machines use? Can I plug it into a normal outlet? ||| The Lambda Blade will draw a max of 2400w of power. It can be plugged into a 100v to 240v outlet. The Lambda Quad will draw between 1000w and 1250w.
+Do you provide on-site installation? ||| No need! We install everything so that all you have to do is plug it in and get learning.
+I already have a GPU. Can I use it in combination with the preinstalled GPUs? ||| You can do it, but be aware that opening the machine to install it will void your warranty. Alternatively, you can ship us your GPU and we can install it for you. We are happy to help set up a system that exactly fits your needs.
+What comes pre-installed on your machines? ||| Our machines come with Lambda Stack. It includes TensorFlow, PyTorch, Caffe, Caffe 2, Keras, CUDA and cuDNN. As this software is updated, we update the stack for easy one-line updates that work together.
+I want to buy a TensorBook with 512gb of storage. Can I upgrade it later if I need more? ||| TensorBooks should not be opened. We do not offer upgrades after purchase. If you are unsure, remember that you can never have too much, but you can have too little.
+GPUs tend to run hot! How are your machines cooled? ||| All of our machines are air cooled.  We do not offer liquid cooling and have not found it neccesary. The hardware is arranged for uni-directional air flow, so the GPUs aren't heating each other up and hot air is forced out. This has been both efficient and effective for us.
+How do I install Lambda Stack? ||| We have a tutorial for you at lambdalabs.com/lambda-stack-deep-learning-software.
+What sort of server rack do I need for the Lambda Blade? ||| A standard 19" 4U server rack will work for the Lambda Blade.
+How loud do they run? ||| The Lambda Quad is quiet enough to sit under your desk: it runs about 10Db louder than typical ambient noise. The Lambda Blade is best kept in a separate space, such as a data room. It will be louder as it boots up and quieter while in use.
+Is there a free trial for to access Lambda's Deep Learning Cloud? ||| Not at this time. The Deep Learning Cloud is still in alpha testing. It will be charged per hour when it goes live. https://lambdalabs.com/service/gpu-cloud
+What do your products cost? ||| Since everyone's needs will differ, costs will also differ. Don't be afraid to configure your device on the website to get a quote for your needs. We are here to help if you can't find a setup that fits your needs.
+Can I buy my device locally? Do you have agents or resellers? ||| There is no middleman between Lambda Labs and you. We ship everything directly to you from our office in California. We can ship worldwide.
+How soon can I get my machine? ||| It usually takes us three to four business days to get your machine ready for you, unless you need a custom solution. Custom hardware or software can extend the lead time to seven or eight business days. Once we ship it, shipping time varies by your location.
+What operating systems come on your devices? ||| We ship with either Ubuntu 18.04 or Windows 10. We also provide dual boot. Other OS configuration can be offered upon request.
+Can I mine cryptocurrency with these? ||| Yes! If you need to go further with cryptocurrnecy, we partner with Neon Mining. You can check their website for more information. https://neonminer.com/
+Do you offer financing? ||| Yes, we offer financing through a third party partner, Partners Capital Group. https://www.flexiblefinancingoptions.com/lambdalabs
+How heavy is the TensorBook? ||| About 4.5lbs. 
+Have a question you don't see here? ||| Shoot us an email, and we can address any specific questions or concerns you have. enterprise@lambdal.com
+Can I talk with a real human? ||| Have a question I can't help with? Shoot us an email, and we can address any specific questions or concerns you have. enterprise@lambdalabs.com
+What motherboard do you use in the Lambda Quad? ||| We use a X299 motherboard. 
+What is the pricing for Neon Miner? ||| Here is the pricing below including shipment within USA. We ship within 7 business days of purchase.  1 unit: $6000; 2-9 units: $5600; 10-25 units: $5300; International shipments will have additional shipment charges
+How do I request support for my Lambda product? ||| Please email us your issue at support@lambdalabs.com. Also, please check out https://deeptalk.lambdalabs.com/ to see if the issue has already been addressed.
+What is the Lambda Blade server size? ||| It is a 4U machine with the dimensions (HWD) of 7" x 17.2" x 29"
+Do you offer AMD solutions? ||| We offer AMD processors in our Lambda Quad Workstations. Please click on the link below for options: https://lambdal.com/raw-configurator?product=quad-amd
+Do you offer custom solutions? ||| We provide custom configurations for the machines depending on the hardware requirements and the quanity ordered. Please email us at enterprise@lambdal.com for any questions.
+Do you offer custom builds? ||| We provide custom configurations for the machines depending on the hardware requirements and the quanity ordered. Please email us at enterprise@lambdal.com for any questions.
+What are the specs on Lambda Tensorbook? ||| "The hardware specifications for Lambda Tensorbook can be found here: https://lambdal.com/raw-configurator?product=tensorbook
+I'm looking for additional specs and information about the TensorBook? ||| Please refer to: https://deeptalk.lambdal.com/t/lambda-tensorbook-additional-specifications/388
+I need to start training, but I cant commit buying a machine. ||| Our GPU cloud services are robust and complete. It's ready to run when you are for $0.375/GPU/hour.
+What if the software included in the stack releases a new version? ||| Just run `sudo apt-get update && sudo apt-get upgrade`. We make sure all of the software works together, and release an updated stack for you. There's no need to update software one at a time. 
