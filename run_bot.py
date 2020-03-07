@@ -12,7 +12,7 @@ parser = argparse.ArgumentParser(description='Input argument parser.')
 parser = argparse.ArgumentParser(description='Input argument parser.')
 
 parser.add_argument('--model_name', type=str, help='name of model',
-					default='bert-large-nli-mean-tokens')
+					default='roberta-large-nli-stsb-mean-tokens')
 
 parser.add_argument('--database_path', type=str, help='path to the questions and answer dataset. Can be txt or pickle',
 					default='examples.txt')
@@ -50,7 +50,12 @@ class Bot(object):
 
 						db.append([enc_q, d[0], d[1]])
 
+						print(d[0])
+
 				pickle_path = os.path.splitext(database_path)[0] + '.pkl'
+				
+
+
 			with open(pickle_path, 'wb') as f:
 				pickle.dump(db, f)
 			
